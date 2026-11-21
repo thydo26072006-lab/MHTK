@@ -1,0 +1,13 @@
+﻿statistic,value,unit,source
+n,12,dimensionless,observed data
+mean,108.083333333,original time unit (not specified in slide 5),observed data
+median,88,original time unit (not specified in slide 5),observed data
+variance,18559.1742424,squared original time unit,observed data
+sd,136.232060259,original time unit (not specified in slide 5),observed data
+minimum,3,original time unit (not specified in slide 5),observed data
+maximum,487,original time unit (not specified in slide 5),observed data
+Q1,15.25,original time unit (not specified in slide 5),observed data
+Q3,107.5,original time unit (not specified in slide 5),observed data
+IQR,92.25,original time unit (not specified in slide 5),observed data
+CV,1.26043540718,dimensionless,observed data
+skewness,2.23986972334,dimensionless,observed data

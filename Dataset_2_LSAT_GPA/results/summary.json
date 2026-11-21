@@ -1,0 +1,18 @@
+{
+  "dataset": "Dataset 2: LSAT-GPA",
+  "n": 15,
+  "seed": 3179,
+  "B": 10000,
+  "pearson_r": 0.7763744912894073,
+  "fisher_ci_lower": 0.438510824962796,
+  "fisher_ci_upper": 0.9219647559645165,
+  "permutation_exceedances": 4,
+  "permutation_p": 0.0004999500049995,
+  "permutation_p_MCSE": 0.0001999400019989999,
+  "permutation_tail_ci_lower": 0.00010899694802680208,
+  "permutation_tail_ci_upper": 0.0010238392865656119,
+  "reject_independence_at_005": true,
+  "permutation_null": "LSAT and GPA independent across iid schools; GPA labels exchangeable",
+  "fisher_ci_assumption": "Approximate interval under iid bivariate normal sampling",
+  "limitation": "Sampling independence and exchangeability are assumptions, not verified by these data"
+}
