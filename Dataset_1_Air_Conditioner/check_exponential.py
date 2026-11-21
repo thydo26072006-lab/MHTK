@@ -1,9 +1,6 @@
 """Dataset 1: thống kê mô tả, MLE và kiểm định độ phù hợp Exponential.
 
-Chạy và xem hình: python check_exponential.py
-Chỉ in bảng số: python check_exponential.py --no-plots
-Kiểm tra tái lập: python check_exponential.py --validate
-Không tạo file dữ liệu, kết quả hoặc báo cáo; không gọi data1.py.
+
 """
 import argparse
 import sys
